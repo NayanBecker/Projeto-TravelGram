@@ -4,6 +4,7 @@ nav{
     align-items: center;
 
     padding-block: 20px;
+    line-height: 0;
 }
 nav ul{
     list-style: none;
